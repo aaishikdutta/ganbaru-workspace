@@ -1,0 +1,19 @@
+{
+    "name": "Ganbaru Workspace",
+    "short_name": "Ganbaru",
+    "description": "A Progressive Web App for ganbaru workspace",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "assets/sushi.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/sushi.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+}

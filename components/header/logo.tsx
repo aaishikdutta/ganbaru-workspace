@@ -2,8 +2,8 @@
 
 import Image from "next/image"
 
-import logo_dark from '../../assets/icons8-sushi-52.png'
-import logo_light from '../../assets/icons8-sushi-52-light-mode.png'
+import logo_dark from '../../public/assets/icons8-sushi-52.png'
+import logo_light from '../../public/assets/icons8-sushi-52-light-mode.png'
 
 export const Logo = () => {
 
