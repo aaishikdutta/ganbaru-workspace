@@ -9,8 +9,20 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        light: {
+          primary: '#A1BE95',
+          secondary: '#F98866',
+          accent: '#FFF2D7'
+        },
+        dark: {
+          primary: '#42624A',
+          secondary: '#A24936',
+          accent: '#D36135'
+        }
+        
+      },
+      fontFamily: {
+        'sans': 'var(--afacad)'
       },
     },
   },
